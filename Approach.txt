@@ -1,0 +1,16 @@
+1.Do all the required task on a single link.
+
+2.Find Product Title, Product Image URL, Price of the Product, Product Details using requests and beatifulsoup.
+
+3.Convert the result Dataframe too dictionary and finally into JSON.
+
+4.Modify the code in such a way that it will work on 100 links.
+
+5.Put the code in a functiton and pass values into it.
+
+6.Dump the result in JSON file.
+
+Time taken to complete: 12.5 hours.
+
+Note: Didn't complete Bonus 1 and Bonus 2
+Note: Didn't complete Bonus Task
